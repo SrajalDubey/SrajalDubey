@@ -54,8 +54,7 @@ Business performance dashboard using KPIs, sales trends, and recall analysis.
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in
-/srajal-dubey-1273301b6)
+- 💼 LinkedIn: (www.linkedin.com/in/srajal-dubey-1273301b6)
 - 📂 GitHub: https://github.com/SrajalDubey  
 
 ---
