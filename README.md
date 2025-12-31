@@ -8,11 +8,9 @@
 
 ## 🔍 About Me
 
-I am currently pursuing the IBM Data Analyst Professional Certificate and building real-world data analysis projects using Excel, data visualization tools, SQL, and Python. I enjoy working with data to uncover patterns, solve business problems, and support data-driven decisions.
-
-I am actively looking for:
-- 📌 Data Analyst Internships  
-- 📌 Entry-Level Data Analyst / Business Analyst Roles  
+Entry-level Data Analyst trained through IBM’s Professional Certificate.
+Experienced in Excel-based analysis and dashboard reporting.
+Actively building real-world data projects using Python and SQL.
 
 ---
 
