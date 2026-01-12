@@ -47,6 +47,7 @@ interest rates influence Indian and global equity markets.
 - Performed return, correlation, volatility, and regime-based analysis
 - Built an interactive Power BI dashboard for insights visualization
 - Documented analysis with clear reports and visuals
+  
 🔗https://github.com/SrajalDubey/Impact-of-us-fed-rates-analysis
 
 ---
