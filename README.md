@@ -39,6 +39,16 @@ Inventory data analysis and reporting using Excel for fleet management.
 Business performance dashboard using KPIs, sales trends, and recall analysis.  
 🔗 https://github.com/SrajalDubey/data-visualization-dashboard  
 
+✅ 📊Impact of US Fed Interest Rates on Indian & Global Markets
+A complete data analysis project examining how changes in US Federal Reserve
+interest rates influence Indian and global equity markets.
+**Highlights:**
+- Cleaned and merged multi-source financial datasets
+- Performed return, correlation, volatility, and regime-based analysis
+- Built an interactive Power BI dashboard for insights visualization
+- Documented analysis with clear reports and visuals
+🔗https://github.com/SrajalDubey/Impact-of-us-fed-rates-analysis
+
 ---
 
 ## 📈 What I Am Currently Learning
