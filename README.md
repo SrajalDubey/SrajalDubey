@@ -64,7 +64,7 @@ interest rates influence Indian and global equity markets.
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: (www.linkedin.com/in/srajal-dubey-1273301b6)
+- 💼 LinkedIn: (https://www.linkedin.com/in/srajal-dubey-data-analyst/)
 - 📂 GitHub: https://github.com/SrajalDubey  
 
 ---
