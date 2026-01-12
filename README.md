@@ -42,6 +42,7 @@ Business performance dashboard using KPIs, sales trends, and recall analysis.
 ✅ 📊Impact of US Fed Interest Rates on Indian & Global Markets
 A complete data analysis project examining how changes in US Federal Reserve
 interest rates influence Indian and global equity markets.
+
 **Highlights:**
 - Cleaned and merged multi-source financial datasets
 - Performed return, correlation, volatility, and regime-based analysis
